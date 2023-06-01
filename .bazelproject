@@ -20,7 +20,3 @@ additional_languages:
   # python
   # scala
   # typescript
-
-# TODO: Bazel document says the test sources "should only be applied to actual tests, not test
-# utility classes". Need to figure out where to put test utility classes.
-test_sources:
